@@ -1,9 +1,28 @@
 # JIWON'S github HOME
-## IT DEVELOPER
-## IMAGE<br>
-<img width="333.5" height="500" src="F6601581 복사.jpg"/><br>
-[portfolio](/2260341012.pdf)<br>
-## Youtube
+
+## 1. INTRODUCE
+
+안녕하세요. 신지원입니다.
+
+|이름 |신지원|![Image](/신지원님_반명함사이즈.jpg){: width="106.25" height="141.75"){: .center}|
+|연락처 | tlswldnjs716@naver.com
+|skill set| Frontend - HTML, CSS|
+| | Backend - Java, SQL|
+|자격증| 2021년 정보처리기사 |
+|| 2020년 SQLD |
+|수상| 크리에이티브 아이디어상 (서울특별시 수상)  |
+
+## 2. 나의 동영상
+일상 영상입니다.
 <iframe width="640" height="360" src="https://www.youtube.com/embed/tJXvVX3vuDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-## Reference<br>
-[Instagram](https://www.instagram.com/wb.s_07/)
+[portfolio](/2260341012.pdf)<br>
+
+## 3. IT 경험
+
+||과목 |기간|개요 |
+|1|[git](https://tlswldnjs716.github.io/subject)|2022년 3월|git 사용법 |
+|2|[java](https://tlswldnjs716.github.io/subject)|2018년 3월|java 기초|
+|3|[SQL](https://tlswldnjs716.github.io/subject)|2018년 9월|sql 기초 |
+|||||
+|||||
+|||||
