@@ -13,8 +13,8 @@
 |수상| 크리에이티브 아이디어상 (서울특별시 수상)  |
 
 ## 2. 나의 동영상
-일상 영상입니다.
-<iframe width="640" height="360" src="https://www.youtube.com/embed/tJXvVX3vuDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+포트폴리오 제작 영상입니다.
+<iframe width="1217" height="685" src="https://www.youtube.com/embed/pEEVNGZDfvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [portfolio](/2260341012.pdf)<br>
 
 ## 3. IT 경험
