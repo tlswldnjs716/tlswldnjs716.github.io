@@ -14,7 +14,7 @@
 
 ## 2. 나의 동영상
 포트폴리오 제작 영상입니다.
-<iframe width="608.5" height="342.5" src="https://www.youtube.com/embed/pEEVNGZDfvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="608.5" height="342.5" src="https://www.youtube.com/embed/3A3nLblKf8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [portfolio](/2260341012.pdf)<br>
 
 ## 3. IT 경험
