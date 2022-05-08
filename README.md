@@ -23,6 +23,6 @@
 |1|[git](https://tlswldnjs716.github.io/gitstudy)|2022년 3월|git 사용법 |
 |2|[java](https://tlswldnjs716.github.io/Subject)|2018년 3월|java 기초|
 |3|[SQL](https://tlswldnjs716.github.io/Subject)|2019년 9월|sql 기초 |
-|4|[linux](https://tlswldnjs716.github.io/linuxstudy)|2022년 3월|linux 기초|
+|4|[linux](https://tlswldnjs716.github.io/linuxstudy)|2022년 3월|linux 기초 |
 |||||
 |||||
